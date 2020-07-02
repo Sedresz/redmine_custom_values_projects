@@ -7,7 +7,7 @@ Features
 --------
 
 * Limit the values of custom fields per project (only issues)
-* Works in the edit form, contextual menu and bulk edit.
+* Works in the edit form, contextual menu and bulk edit. 
 
 Compatibility
 -------------
